@@ -91,7 +91,7 @@ include('include/databse.php');
                                
                         
                                 <li>
-                                    <a href="login.html" class="log-out">
+                                    <a href="user_login.php" class="log-out">
                                         <span><i class="fa fa-sign-out m-r-xs"></i>Log out</span>
                                     </a>
                                 </li>
@@ -174,7 +174,7 @@ include('include/databse.php');
                     <h3>Dashboard</h3>
                     <div class="page-breadcrumb">
                         <ol class="breadcrumb">
-                            <li><a href="index.html">Home</a></li>
+                            <li><a href="index.php">Home</a></li>
                             <li class="active">Dashboard</li>
                         </ol>
                     </div>

@@ -47,7 +47,7 @@ include "include/databse.php";
                         </a>
                     </div>
                     <div class="logo-box">
-                        <a href="index.html" class="logo-text"><span>Lion's Den</span></a>
+                        <a href="index.php" class="logo-text"><span>Lion's Den</span></a>
                     </div><!-- Logo Box -->
                    
                     <div class="topmenu-outer">
@@ -68,7 +68,7 @@ include "include/databse.php";
                                
                         
                                 <li>
-                                    <a href="login.html" class="log-out">
+                                    <a href="login.php" class="log-out">
                                         <span><i class="fa fa-sign-out m-r-xs"></i>Log out</span>
                                     </a>
                                 </li>
@@ -152,7 +152,7 @@ include "include/databse.php";
                     <h3>Payments</h3>
                     <div class="page-breadcrumb">
                         <ol class="breadcrumb">
-                            <li><a href="index.html">Home</a></li>
+                            <li><a href="index.php">Home</a></li>
                             <li><a href="#">Payments</a></li>
                             <li class="active">Bills</li>
                         </ol>

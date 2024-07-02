@@ -150,7 +150,7 @@ include "include/databse.php";
                     <h3>Suppliments</h3>
                     <div class="page-breadcrumb">
                         <ol class="breadcrumb">
-                            <li><a href="index.html">Home</a></li>
+                            <li><a href="index.php">Home</a></li>
                             <li><a href="#">Suppliments</a></li>
                             <li class="active">Add Suppliments Form</li>
                         </ol>

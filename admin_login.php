@@ -38,13 +38,13 @@
                                 <div class="logo-image">
                                     <img src="assets/images/logo1.png" alt="" width="100px" height="100px">
                                  </div>
-                                <a href="index.html" class="logo-name text-lg text-center">Lion's Den Gym</a>
+                                <a href="index.php" class="logo-name text-lg text-center">Lion's Den Gym</a>
                                 <p class="text-center m-t-md">Please login into Admin account.</p>
                                 <div class="logo-gif">
                                    <img src="assets/images/gif1.gif" alt="" width="200px" height="200px">
                                 </div>
 
-                                <form class="m-t-md" action="index.html">
+                                <form class="m-t-md" action="index.php">
                                     <div class="form-group">
                                         <input type="text" class="form-control" placeholder="User Name" required>
                                     </div>
@@ -55,8 +55,8 @@
                                         <input type="password" class="form-control" placeholder="Password" required>
                                     </div>
                                     <button type="submit" class="btn btn-success btn-block">Login</button>
-                                    <a href="forgot.html" class="display-block text-center m-t-md text-sm">Forgot Password?</a>
-                                    <a href="register.html" class="btn btn-default btn-block m-t-md">Login as a User</a>
+                                    <a href="forgot.php" class="display-block text-center m-t-md text-sm">Forgot Password?</a>
+                                    <a href="register.php" class="btn btn-default btn-block m-t-md">Login as a User</a>
                                 </form>
                                 <p class="text-center m-t-xs text-sm">2021 &copy; Create by Kavi_98.</p>
                             </div>

@@ -70,7 +70,7 @@ include "include/databse.php";
                                
                         
                                 <li>
-                                    <a href="login.html" class="log-out">
+                                    <a href="login.php" class="log-out">
                                         <span><i class="fa fa-sign-out m-r-xs"></i>Log out</span>
                                     </a>
                                 </li>
@@ -154,7 +154,7 @@ include "include/databse.php";
                     <h3>Member List</h3>
                     <div class="page-breadcrumb">
                         <ol class="breadcrumb">
-                            <li><a href="index.html">Home</a></li>
+                            <li><a href="index.php">Home</a></li>
                             <li><a href="#">Reports</a></li>
                             <li class="active">Member List</li>
                         </ol>
@@ -337,14 +337,6 @@ include "include/databse.php";
                                                     <div class="col-md-3">
                                                     <button type="button" class="btn btn-primary btn-rounded">Reset</button>
                                                     </div>
-
-                                                    <div class="col-md-3">
-                                                    <button type="button" class="btn btn-primary btn-rounded">Reset</button>
-                                                    </div>
-
-                                                    <div class="col-md-3">
-                                                    <button type="button" class="btn btn-primary btn-rounded">Reset</button>
-                                                    </div>
            
                                                 </div>
      
@@ -354,7 +346,7 @@ include "include/databse.php";
                         </div>
                     </div><!-- Row -->
 
-                    <div class="row">
+                    <!-- <div class="row">
                         <div class="col-md-12">
                             <div class="panel panel-white">
                                 <div class="panel-heading clearfix">
@@ -452,7 +444,7 @@ include "include/databse.php";
 
                             </div>
                         </div>
-                    </div><!-- Row -->
+                    </div>Row -->
                 </div><!-- Main Wrapper -->
                 <div class="page-footer">
                 <p class="no-s">2021 &copy; Lion's Den  by Code-Busters.</p>

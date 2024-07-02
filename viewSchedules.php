@@ -153,7 +153,7 @@ include "include/databse.php";
                     <h3>View Schedules</h3>
                     <div class="page-breadcrumb">
                         <ol class="breadcrumb">
-                            <li><a href="index.html">Home</a></li>
+                            <li><a href="index.php">Home</a></li>
                             <li><a href="#">Schedules</a></li>
                             <li class="active">View Schedules</li>
                         </ol>

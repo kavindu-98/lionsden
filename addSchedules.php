@@ -94,7 +94,7 @@ include "include/databse.php";
                         </div>
                     </div>
                     <ul class="menu accordion-menu">
-                        <li class="active"><a href="index.html" class=" waves-button"><span class="menu-icon glyphicon glyphicon-home"></span><p>Dashboard</p></a></li>
+                        <li class="active"><a href="index.php" class=" waves-button"><span class="menu-icon glyphicon glyphicon-home"></span><p>Dashboard</p></a></li>
                         
                         <li class="droplink"><a href="#" class=" waves-button"><span class="menu-icon glyphicon "><i class="fas fa-id-card"></i></span><p>Registration</p><span class="arrow"></span></a>
                             <ul class="sub-menu">
@@ -153,7 +153,7 @@ include "include/databse.php";
                     <h3>Schedules</h3>
                     <div class="page-breadcrumb">
                         <ol class="breadcrumb">
-                            <li><a href="index.html">Home</a></li>
+                            <li><a href="index.php">Home</a></li>
                             <li><a href="#">Schedules</a></li>
                             <li class="active">Add Schedules Form</li>
                         </ol>

@@ -46,14 +46,14 @@
                     <div class="row">
                         <div class="col-md-3 center">
                             <div class="login-box">
-                                <a href="index.html" class="logo-name text-lg text-center">Lion's Den Gym</a>
+                                <a href="index.php" class="logo-name text-lg text-center">Lion's Den Gym</a>
                                 <p class="text-center m-t-md">Enter your e-mail address below to reset your password</p>
                                 <form class="m-t-md">
                                     <div class="form-group">
                                         <input type="email" class="form-control" placeholder="Email" required>
                                     </div>
                                     <button type="submit" class="btn btn-primary btn-block">Submit</button>
-                                    <a href="admin_login.html" class="btn btn-default btn-block m-t-md">Back</a>
+                                    <a href="admin_login.php" class="btn btn-default btn-block m-t-md">Back</a>
                                 </form>
                                 <p class="text-center m-t-xs text-sm">2021 &copy; Create by Kavi_98.</p>
                             </div>

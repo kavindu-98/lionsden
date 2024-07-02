@@ -39,9 +39,9 @@
                     <div class="row">
                         <div class="col-md-3 center">
                             <div class="login-box">
-                                <a href="index.html" class="logo-name text-lg text-center">Lion's Den Gym</a>
+                                <a href="index.php" class="logo-name text-lg text-center">Lion's Den Gym</a>
                                 <p class="text-center m-t-md">Create a Lion's Den User account</p>
-                                <form class="m-t-md" action="login.html">
+                                <form class="m-t-md" action="login.php">
                                     <div class="form-group">
                                         <input type="text" class="form-control" placeholder="User Name" required>
                                     </div>
@@ -62,7 +62,7 @@
                                     </label>
                                     <button type="submit" class="btn btn-success btn-block m-t-xs">Submit</button>
                                     <p class="text-center m-t-xs text-sm">Already have an User account?</p>
-                                    <a href="user_login.html" class="btn btn-default btn-block m-t-xs">Login</a>
+                                    <a href="user_login.php" class="btn btn-default btn-block m-t-xs">Login</a>
                                 </form>
                                 <p class="text-center m-t-xs text-sm">2021 &copy; Create by Kavi_98.</p>
                             </div>
